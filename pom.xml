@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ch.axa</groupId>
-    <artifactId>cool-cars-backend</artifactId>
+    <artifactId>m450-cool-cars-be</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cool-cars-backend</name>
-    <description>cool-cars-backend</description>
+    <name>m450-cool-cars-be</name>
+    <description>m450-cool-cars-be</description>
     <properties>
         <java.version>17</java.version>
     </properties>
